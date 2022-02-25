@@ -11,9 +11,9 @@ This package installs Typo3 v11 and two further extensions:
 
 ## Installation
 
-### 1. Rrun `composer install`
+### 1. Run `composer install`
 
-All used packages are downloaded and installed.
+All used packages are being downloaded and installed.
 
 ### 2. Install Typo3 in the ususal way:
 
