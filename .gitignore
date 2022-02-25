@@ -1,0 +1,7 @@
+config/
+public/
+var/
+vendor/
+composer.lock
+.DS_Store
+.vscode/
