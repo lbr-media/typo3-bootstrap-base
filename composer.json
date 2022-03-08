@@ -11,6 +11,8 @@
     },
     "require": {
         "helhum/typo3-console": "^7",
+        "lbr-media/typo3-extension-bootstrap": "^1.0",
+        "lbr-media/typo3-extension-bootstrap-example": "^1.0",
         "typo3/cms-adminpanel": "^11.5",
         "typo3/cms-backend": "^11.5",
         "typo3/cms-belog": "^11.5",
